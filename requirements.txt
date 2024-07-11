@@ -1,1 +1,1 @@
-fastapi[all]
+ pip freeze > requirements.txt
